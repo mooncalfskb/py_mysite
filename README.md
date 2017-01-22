@@ -1,0 +1,2 @@
+# pymysite
+django tutorial
